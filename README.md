@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Sobre o projeto
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto que consiste em criar um clone da página Web do GitHub que foi concebido a partir de uma aula on-line. O projeto foi desenvolvido no ReactJS junto com o TypeScript e outras ferramentas.
 
 ## Available Scripts
 
