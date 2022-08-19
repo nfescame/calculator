@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Este é um projeto que consiste em criar um clone da página Web do GitHub que foi concebido a partir de uma aula on-line. O projeto foi desenvolvido no ReactJS junto com o TypeScript e outras ferramentas.
+Este é um projeto que consiste em uma simple calculadora feita em reactjs e estilizada com css puro.
 
 ## Available Scripts
 
