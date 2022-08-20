@@ -10,6 +10,11 @@ Este é um projeto que consiste em uma simple calculadora feita em reactjs e est
 
 ![Mobile](./src/img/mobile.png)
 
+## deploy
+
+<a href="https://escame-calculator.netlify.app/" target="_blank">Click</a>
+para visitar deploy.
+
 ## Como rodar este projeto
 
 Para clonar e executar este aplicativo, você precisará de Git, NodeJs Instalado em seu computador.
@@ -35,5 +40,3 @@ $ npm start
 
 # O servidor inciará na porta:3000 - acesse http://localhost:3000
 ```
-
-
