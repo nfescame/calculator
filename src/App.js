@@ -17,7 +17,7 @@ export default function App() {
 
   const calculate = () => {
     try {
-      setResult(window.eval(result).toString());
+      setResult(eval(result).toString());
     } catch (err) {
       setResult("Error");
     }
