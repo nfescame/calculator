@@ -2,6 +2,11 @@
 
 Este é um projeto que consiste em uma simple calculadora feita em reactjs e estilizada com css puro.
 
+## Deploy
+
+<a href="https://escame-calculator.netlify.app/" target="_blank">Click</a>
+para visitar deploy.
+
 ## Layout para Web
 
 ![Web](./src/img/web.png)
@@ -9,11 +14,6 @@ Este é um projeto que consiste em uma simple calculadora feita em reactjs e est
 ## Layout para Mobile
 
 ![Mobile](./src/img/mobile.png)
-
-## deploy
-
-<a href="https://escame-calculator.netlify.app/" target="_blank">Click</a>
-para visitar deploy.
 
 ## Como rodar este projeto
 
