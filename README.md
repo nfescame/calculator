@@ -13,8 +13,10 @@ Para clonar e executar este aplicativo, você precisará de Git, NodeJs Instalad
 
 ## Clonando o repositório
 
+```
 $ //Clone este repositório
-$ git clone https://github.com/Alquipo/React-Github-Clone
+$ git clone https://github.com/nfescame/calculator.git
 
 $ //Acesse a pasta do projeto no terminal/cmd
-$ cd React-Github-Clone
+$ cd calculator
+```
