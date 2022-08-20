@@ -4,6 +4,5 @@ Este é um projeto que consiste em uma simple calculadora feita em reactjs e est
 
 ## Layout
 
+![Web](./src/img/web.png)
 ![Mobile](./src/img/mobile.png)
-
-![Web](./src/img/mobile.png)
