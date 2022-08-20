@@ -4,7 +4,7 @@ Este é um projeto que consiste em uma simple calculadora feita em reactjs e est
 
 ## Available Scripts
 
-![My Image](img/math.jpg)
+![My Image](./src/img/math.jpg)
 
 
 ### `npm start`
