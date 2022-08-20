@@ -4,7 +4,7 @@ Este é um projeto que consiste em uma simple calculadora feita em reactjs e est
 
 ## Available Scripts
 
-![alt text](https://localhost:3000/img/math.jpeg?raw=true)
+![Alt text](/img/math.jpg "Optional title")
 In the project directory, you can run:
 
 ### `npm start`
