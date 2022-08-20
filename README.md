@@ -7,4 +7,3 @@ Este é um projeto que consiste em uma simple calculadora feita em reactjs e est
 ![Mobile](./src/img/mobile.png)
 
 ![Web](./src/img/mobile.png)
-
